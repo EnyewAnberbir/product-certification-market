@@ -1,0 +1,8 @@
+language: c++
+fuzzing_engines:
+  - libfuzzer
+sanitizers:
+  - address
+  - undefined
+fuzz_targets:
+  - pcm_fuzzer
