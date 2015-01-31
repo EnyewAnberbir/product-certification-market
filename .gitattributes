@@ -1,0 +1,7 @@
+* text=auto
+*.sh text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.zig text eol=lf
+.clusterfuzzlite/build.sh text eol=lf
+build.sh text eol=lf

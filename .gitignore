@@ -1,0 +1,13 @@
+zig-cache/
+zig-out/
+.zig-cache/
+build/
+build-asan/
+build-fuzz/
+pocs/
+POC/
+private/
+*.o
+*.a
+*.lib
+.DS_Store
