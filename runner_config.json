@@ -1,0 +1,4 @@
+{
+  "harness": "pcm_fuzzer",
+  "entrypoint": "pcm_process_bytes"
+}
